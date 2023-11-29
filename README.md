@@ -34,12 +34,15 @@ This application fetches weather data based on user input for a specific locatio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Hemsharavanan/Weather-App-NextJS.git
+    git clone https://github.com/Hemsharavanan/Weather-App-NextJS.git
 ```
 
 2. Install dependencies:
+
+```bash
    cd weather-app
    npm install
+```
 
 3. Create a `.env` file in the root directory:
 
@@ -48,13 +51,13 @@ git clone https://github.com/Hemsharavanan/Weather-App-NextJS.git
    NEXT_PUBLIC_API_URI=required_openweather_api_endpoint
 ```
 
-Replace your_openweather_api_key with your OpenWeather API key.
-Replace required_openweather_api_endpoint with the specific API which you want to utilize.
+- Replace your_openweather_api_key with your OpenWeather API key.
+- Replace required_openweather_api_endpoint with the specific API which you want to utilize.
 
 4. Run the application:
 
 ```bash
-npm run dev
+    npm run dev
 ```
 
 5. Open your browser and navigate to `http://localhost:3000`.
