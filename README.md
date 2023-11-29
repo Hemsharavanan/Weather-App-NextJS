@@ -2,6 +2,16 @@
 
 This Weather App is a web application built with Next.js that provides weather information based on location using the OpenWeather API.
 
+## Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Demo Video](#demo-video)
+
 ## Overview
 
 This application fetches weather data based on user input for a specific location and displays the current weather conditions, along with a daily forecast for the next week.
